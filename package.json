@@ -15,6 +15,7 @@
   },
   "type": "module",
   "dependencies": {
-    "buffer": "^5.6.0"
+    "buffer": "^5.6.0",
+    "crypto-js": "^4.0.0"
   }
 }
